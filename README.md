@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output:
-![exp2](https://github.com/CynthiaMehul/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319444/cc318298-73db-42f2-a654-3ed434389fb6)
+![exp2](https://github.com/CynthiaMehul/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319444/6eaed845-ee56-4ff7-8476-2eb494afa4d2)
 
 
 ### Name:Cynthia Mehul
