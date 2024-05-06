@@ -47,7 +47,7 @@
 ![exp2](https://github.com/CynthiaMehul/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319444/6eaed845-ee56-4ff7-8476-2eb494afa4d2)
 
 
-### Name:Cynthia Mehul
+### Name: Cynthia Mehul
 ### Register Number: 212223240020
 
 ## RESULT:
